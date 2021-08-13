@@ -44,6 +44,18 @@ int main() {
 } 
 ```
 
+## Professional skills
+* Qt
+* VC C++
+* Embarcadero C++
+* STL
+* boost
+* SQL
+* C#
+* Unity 3d
+* Delphy
+* MQL4
+
 ## Education
 *BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIO ELECTRONICS MINSK* 
 INFORMATION TECHNOLOGY ENGINEER
