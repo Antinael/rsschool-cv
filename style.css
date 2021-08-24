@@ -1,0 +1,44 @@
+* {
+    background-color: rgb(102, 129, 129);
+    color: rgb(230, 237, 243);
+}
+header{
+    display: flex;    
+}
+.header-info{
+    width: 50%;
+    height: 100%;    
+}
+.header-name{   
+    font-size: 300%; 
+    text-transform: uppercase;
+}
+.header-position{
+    height: 100%;
+    text-transform: uppercase;
+    font-size: 120%; 
+}
+.header-foto{
+    text-align: left;
+    width: 20%;
+    height: 100%;
+}
+.foto-img {
+    width: 200px;
+    border-radius: 50%;            
+}
+footer{
+    display: flex;
+}
+.footer-ref{
+    width: 33%;    
+    height: 100%;   
+}
+.footer-logo{
+    width: 33%;    
+    height: 100%;   
+}
+.footer-date{
+    width: 33%;    
+    height: 100%;   
+}
